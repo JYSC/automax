@@ -55,6 +55,9 @@ section article p{
   text-align: center;
   color: black;
 }
+section table{
+  text-align: center;
+}
 .container {
   width: 810px;
   margin: 0 auto;

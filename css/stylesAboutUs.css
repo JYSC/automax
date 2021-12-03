@@ -20,6 +20,7 @@ h1 {
   font-size:  130px;
   font-weight: 700;
   margin:  0;
+  text-align: center;
 }
 
 .hero-section {
@@ -39,4 +40,19 @@ footer{
 footer li {
   display: flex;
   padding: 30px;
+}
+section article{
+  background-color: darkgray;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0;
+  text-align: center;
+}
+section article p{
+  text-align: center;
+  color: black;
+}
+.container {
+  width: 1100px;
+  margin: 0 auto;
 }
