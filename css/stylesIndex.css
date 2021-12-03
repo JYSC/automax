@@ -34,9 +34,26 @@ footer{
   display: flex;
   justify-content: center;
   width: 100vw;
+  background-color: black;
 }
 
 footer li {
   display: flex;
   padding: 30px;
+}
+
+section article{
+  background-color: darkgray;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0;
+  text-align: center;
+}
+section article p{
+  text-align: center;
+  color: black;
+}
+.container {
+  width: 810px;
+  margin: 0 auto;
 }
