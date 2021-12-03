@@ -46,36 +46,40 @@ font-size: 100%;
 }
 
 p{
-font-size: 200%;
-color:#34252d;
-font-family: Lato, sans-serif;
-letter-spacing: 5px;
-text-align: center;
+  font-size: 200%;
+  color:#34252d;
+  font-family: Lato, sans-serif;
+  letter-spacing: 5px;
+  text-align: center;
 }
 
 .hero-section {
-text-align: center;
-margin-top: 17vh;
-color: #34252d;
-font-family: Lato, sans-serif;
+  text-align: center;
+  margin-top: 17vh;
+  color: #34252d;
+  font-family: Lato, sans-serif;
+}
+section article{
+  text-align: center;
 }
 
 footer{
-position: fixed;
-bottom: 0;
-left: 0;
-display: flex;
-justify-content: center;
-width: 100vw;
-color: #34252d;
-font-family: Lato, sans-serif;
-background-color: #d8bcbc
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  color: #34252d;
+  font-family: Lato, sans-serif;
+  background-color: #d8bcbc
 }
 
 li{
-font-size: 100%;
-color:#34252d;
-font-family: Lato, sans-serif;
-letter-spacing: 5px;
-text-align: center;
+  font-size: 100%;
+  color:#34252d;
+  font-family: Lato, sans-serif;
+  letter-spacing: 5px;
+  text-align: center;
 }
+
